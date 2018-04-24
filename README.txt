@@ -1,4 +1,4 @@
-The completed coding talk is completed and pushed to GitHub here:
+The completed coding task is pushed to GitHub:
 https://github.com/greghawkins/toy-robot-simulator
 
 Installation instructions:
